@@ -11,4 +11,4 @@ trigger push try 1
    https://github.com/giorgil99/jenkins_integration/
    why don't
 		maybe now ?
-		
+		works now 
