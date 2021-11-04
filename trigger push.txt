@@ -6,4 +6,3 @@ trigger push try 1
  trigger push try 6
  trigger push try 7
  trigger push try 8
-trigger push try 9
